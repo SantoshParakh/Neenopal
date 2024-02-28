@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { FiMail, FiPhone, FiGlobe, FiHeart, FiEdit } from 'react-icons/fi'; 
 import { FaTrash } from "react-icons/fa";
-import "./App.css"
+import "./App.css" 
 
 
 const App = () => {
